@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WoT</string>
+    <string name="search">Пошук</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Статистика гравця</string>
+    <string name="frags">Знищено техніки:</string>
+    <string name="wins">Кількість перемог:</string>
+    <string name="battles">Проведено боїв</string>
+    <string name="avg_xp">Середня к-сть ХР за бій</string>
+    <string name="hits_perc">Відсоток влучань</string>
+
+</resources>
